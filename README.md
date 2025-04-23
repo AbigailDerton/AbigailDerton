@@ -48,5 +48,5 @@ Databricks, RStudio, Conda Environments, Linux, HPC clusters
 
 I'm always eager to grow, learn, and collaborate on meaningful data science work.  
 📫 abigailvderton@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/abigail-derton/)
+🔗 [LinkedIn](https://www.linkedin.com/in/abigail-derton/)
 
