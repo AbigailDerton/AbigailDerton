@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Abigail
+# 👋 Hi there! I'm Abby
 
 I’m a Mathematical Statistician with a deep passion for **data science**, **machine learning**, and **natural language processing**—especially when applied to public health and real-world impact. With an M.S. in Biostatistics from Harvard and a B.S. in Mathematics from UT Arlington, I bring both strong analytical skills and creative thinking to every challenge I take on.
 
