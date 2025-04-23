@@ -13,7 +13,7 @@ This work was published in:
 - *International Journal of Radiation Oncology, Biology, Physics*  
 
 📌 Techniques: Named Entity Recognition (NER), text classification, word embeddings  
-🛠 Tools: Python, scikit-learn, spaCy, Pandas, Jupyter
+🛠 Tools: Python, scikit-learn, spaCy, Pandas, Jupyter Notebook
 
 ---
 
@@ -26,7 +26,7 @@ I've led data science and statistical efforts at the **CDC’s Division of HIV P
 - Deep Learning  
 - Public Health Data Science  
 - Survival & Longitudinal Analysis  
-- Computer Vision  
+- Statistical Analysis 
 - AI in Healthcare  
 
 🤝 I thrive in collaborative environments and love helping build **supportive, forward-thinking teams**. As Secretary of DHP's Applied Data Science Interest Group and co-lead of the Data Science Strategic Plan committee, I helped shape our division’s approach to AI and advanced analytics.
@@ -40,7 +40,7 @@ Python, R, SAS, SQL, MATLAB, LaTeX, Bash, PySpark, Git, GitHub, GitLab, SharePoi
 **Libraries/Frameworks**:  
 scikit-learn, TensorFlow, PyTorch, OpenCV, spaCy, NLTK, Pandas, NumPy, Matplotlib  
 **Platforms**:  
-AWS, Databricks, Linux, HPC clusters, Conda Environments, RStudio
+Databricks, RStudio, Conda Environments, Linux, HPC clusters
 
 ---
 
