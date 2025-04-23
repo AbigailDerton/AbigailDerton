@@ -6,7 +6,7 @@ I’m a Mathematical Statistician with a deep passion for **data science**, **ma
 
 ## 🔬 Featured Project
 
-### 📝 [NLP_CancerSDoH](https://github.com/yourusername/NLP_CancerSDoH)
+### 📝 [NLP_CancerSDoH](https://github.com/AbigailDerton/NLP_CancerSDoH)
 Natural Language Processing for identifying **Social Determinants of Health (SDoH)** in cancer clinic notes.  
 This work was published in:  
 - *Journal of Clinical Oncology*  
