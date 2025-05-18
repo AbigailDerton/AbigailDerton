@@ -23,7 +23,8 @@ I've led data science and statistical efforts at the **CDC’s Division of HIV P
 
 🚀 Interests:  
 - Natural Language Processing (NLP)  
-- Deep Learning  
+- Deep Learning
+- Generative AI (GenAI)
 - Public Health Data Science  
 - Survival & Longitudinal Analysis  
 - Statistical Analysis 
